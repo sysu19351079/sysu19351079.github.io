@@ -1,0 +1,48 @@
+baseurl = "https://sysu19351079.github.io"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Hugo Theme Dream"
+theme = "dream"
+
+# copyright = ""
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+# enableRobotsTXT = true
+
+[params]
+  background = "black"
+  # backgroundImage = "/me/background.jpg"
+  linkColor = "seagreen"
+
+  author = "LIN"
+  # description = ""
+  avatar = "/img/avatar.jpg"
+  motto = "don't quit"
+
+  # rss = true
+
+  # utterancesRepo = ""
+  
+  email = "g1enyy0ung@gmail.com"
+  # twitter = ""
+  # facebook = ""
+  # instagram = ""
+  # linkedin = ""
+  # github = ""
+  # stackoverflow = ""
+  # codepen = ""
+
+  siteStartYear = 2020
+
+  # favicon = "/favicon.ico"
+
+  # options
+  showSummaryCoverInPost = true
+
+  # dark mode
+  darkLinkColor = "darkseagreen"
+  darkNav = true 
+  dark404 = true
